@@ -5,6 +5,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Abel&family=Edu+TAS+Beginner:wght@500&family=Quicksand:wght@300&display=swap");
 * {
   text-decoration:none;
+  padding:0;
+  margin:0;
 }
 html, body {
   height: 100%;
@@ -43,7 +45,27 @@ grid-row-gap: 25px;
   transition: 500ms;
   padding: 1rem;
   border-radius: 20px;
+   vertical-align: middle;
+
 }
 .parent div:hover {
-  background-color: #5e5e5e
+  background-color: #4a4a4a
+}
+.sub-title {
+  text-align:center;
+  margin-top: 5rem;
+  margin-bottom:2rem;
+}
+.disabled {
+  cursor: not-allowed;
+}
+.return-button {
+  background-color:#6f6f6f;
+  margin: 2rem;
+ padding: .5rem 3rem .5rem 3rem;
+  border-radius: 10px;
+  
+}
+.return-button {
+  
 }
