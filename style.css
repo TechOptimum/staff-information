@@ -55,6 +55,7 @@ grid-row-gap: 25px;
   text-align:center;
   margin-top: 5rem;
   margin-bottom:2rem;
+  font-size:2rem;
 }
 .disabled {
   cursor: not-allowed;
@@ -64,8 +65,10 @@ grid-row-gap: 25px;
   margin: 2rem;
  padding: .5rem 3rem .5rem 3rem;
   border-radius: 10px;
+  transition:400ms;
+  color:white;
   
 }
-.return-button {
-  
+.return-button:hover {
+   background-color:#484949;
 }
