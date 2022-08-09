@@ -47,6 +47,7 @@ grid-row-gap: 25px;
   padding: 1rem;
   border-radius: 20px;
    vertical-align: middle;
+  height:80px;
 
 }
 .parent div:hover {
