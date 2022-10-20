@@ -1,2 +1,2 @@
-# staff-information
-Staff information of tech optimum
+# Tech Optimum Staff
+https://staff.techoptimum.org
