@@ -44,6 +44,7 @@ grid-row-gap: 25px;
    background-color:#2f2f2f;
   color:white;
   transition: 500ms;
+  padding-top:20px;
   padding: 1rem;
   border-radius: 20px;
    vertical-align: middle;
